@@ -1,0 +1,6 @@
+path: /content/work/pennfudan_yolo_augmented
+train: train/images
+val: val/images
+test: test/images
+names:
+  0: pedestrian
